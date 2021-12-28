@@ -11,3 +11,9 @@ Imaginary part of the array:
 
 import numpy as np
 
+x = np.array([1.00000000+0.j, 0.70710678+0.70710678j])
+print("Real part of the array:")
+print(x.real)
+print("Imaginary part of the array:")
+print(x.imag)
+
