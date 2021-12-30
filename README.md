@@ -1,5 +1,6 @@
 # NumPy Exercises
 
+My solution will have the file name with "_tam" in the end
 In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
 
   * Array creation routines (DONE)
@@ -18,4 +19,4 @@ In numerical computing in python, NumPy is essential. I'm writing simple (a few 
 
 Nov., 2016
 Kyubyong
-Tam
+
