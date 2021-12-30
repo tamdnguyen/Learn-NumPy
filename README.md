@@ -18,3 +18,4 @@ In numerical computing in python, NumPy is essential. I'm writing simple (a few 
 
 Nov., 2016
 Kyubyong
+Tam
