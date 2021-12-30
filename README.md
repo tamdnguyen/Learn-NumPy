@@ -1,6 +1,7 @@
 # NumPy Exercises
 
-My solution will have the file name with "_tam" in the end
+My solution will have the file name with "_tam" in the end. I think these exercises are very comprehensive, and they also cover important topics of Numpy.
+
 In numerical computing in python, NumPy is essential. I'm writing simple (a few lines for each problem) but hopefully helpful exercises based on each of numpy's functions. The outline will be as follows.
 
   * Array creation routines (DONE)
